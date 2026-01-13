@@ -4,16 +4,16 @@ dec 16/2025
 ! NOTE: the provided code will only work on the arduino IDE and not on vs code
 ! ENSURE THE COMPONENTS ARE CONNECTED PROPERLY AND DOUBLE CHECK THE CODE
 
-* Description: 
+### Description: 
 --> This project finds the distance of an object, and lights 
 up some lights based of how close an object is to the HC-SR04 module
 and makes some noise with the active buzzer. Similar to how a car alerts the driver 
 when they are in close proximity to another surface of vehicle to alert them of a danger.
 
-* Components:
--- breadboard
--- arduino uno r3
--- 4 220 ohm resistors
--- 4 5mm red leds
--- 1 active buzzer
--- 1 HC-SR04 -> ultrasonic ranging module
+### Components:
+>> breadboard
+>> arduino uno r3
+>> 4 220 ohm resistors
+>> 4 5mm red leds
+>> 1 active buzzer
+>> 1 HC-SR04 -> ultrasonic ranging module
