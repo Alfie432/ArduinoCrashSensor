@@ -12,9 +12,9 @@ and makes some noise with the active buzzer. Similar to how a car alerts the dri
 when they are in close proximity to another surface of vehicle to alert them of a danger.
 
 ### Components:
-- breadboard
-- arduino uno r3
-- 4 220 ohm resistors
-- 4 5mm red leds
-- 1 active buzzer
-- 1 HC-SR04 -> ultrasonic ranging module
+- Breadboard
+- Arduino Uno R3
+- 4 220 Ohm Resistors
+- 4 5mm Red Leds
+- 1 Active Buzzer
+- 1 HC-SR04 -> Ultrasonic Ranging Module
