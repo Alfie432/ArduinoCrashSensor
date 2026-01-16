@@ -2,6 +2,7 @@ dec 16/2025
 --> This has been copied from the info.txt file
 
 #### NOTE: the provided code will only work on the arduino IDE and not on vs code
+#### NOTE: demo.mp4 must be downloaded as raw file
 #### ENSURE THE COMPONENTS ARE CONNECTED PROPERLY AND DOUBLE CHECK THE CODE
 
 ### Description: 
